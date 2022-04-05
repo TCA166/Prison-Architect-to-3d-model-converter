@@ -24,3 +24,5 @@ Generally speaking whatever you want. Blender can import .stl files so you can j
 How it works:<br>
 For each tile the program takes it's location and material. Then based on this data it generates a cuboid with the height varying based on the material.
 If the tile has the indoor tag it will generate a cuboid above the previously generated cuboid for the tile.
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
